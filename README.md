@@ -86,6 +86,10 @@ AAApleMusic.get().getArtist("us", "178834", new Callback<Artist>() {
 });
 ```
 
+## IOS Version
+
+[ASAppleMusic](https://github.com/Alexsays/ASAppleMusic) - by Alex Silva
+
 ## License
 Copyright 2018 Aaron Asencio Tavio
 
